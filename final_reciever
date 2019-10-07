@@ -83,5 +83,5 @@ else if(p_pos<400 || p_pos>600)
     radio.write(&pos, sizeof(pos));
   }
   delay(100);
-
+}
 }
