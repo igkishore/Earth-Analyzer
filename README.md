@@ -19,7 +19,7 @@ Arduino UNO & Genuino UNO
 Arduino Nano R3	
 Arduino Nano R3
 ×	1	
-nRF24l01
+nRF24l01*2
 ×	2	
 DC Motor, 12 V	
 DC Motor, 12 V
